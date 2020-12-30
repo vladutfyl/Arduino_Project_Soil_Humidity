@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid = "TP-LINK_E93A78";
-const char* password = "filypvasile27";
+const char* ssid = "YourNetworkName";
+const char* password = "YourPassword";
  
 int pumpPin = 13; // GPIO13
 int analogIn = A0; // GPIO13
